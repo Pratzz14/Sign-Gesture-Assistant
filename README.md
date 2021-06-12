@@ -1,7 +1,9 @@
 # Sign Gesture Assistant
  Translates selective sign language signs, projected on GUI. 
 
-Video Demo : https://youtu.be/ONlrG-83XZ8
+Video Demo : https://youtu.be/ONlrG-83XZ8 
+<br>
+<br>
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ONlrG-83XZ8/0.jpg)](https://www.youtube.com/watch?v=ONlrG-83XZ8)
 
 Team :
